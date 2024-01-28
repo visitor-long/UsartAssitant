@@ -1,0 +1,8 @@
+2024/1/28 22:30:49                       VISA INIT ERROR
+
+2024/1/28 22:30:48                       VISA INIT ERROR
+
+2024/1/28 22:30:45                       VISA INIT ERROR
+
+2024/1/28 22:26:24                       VISA INIT ERROR
+

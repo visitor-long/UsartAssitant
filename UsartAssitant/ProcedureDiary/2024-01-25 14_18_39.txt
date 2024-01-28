@@ -1,0 +1,120 @@
+2024/1/28 22:26:23                       VISA INIT ERROR
+
+2024/1/28 22:25:22                       VISA INIT ERROR
+
+2024/1/25 14:23:20                       VISA INIT ERROR
+
+2024/1/25 14:23:20                       VISA INIT ERROR
+
+2024/1/25 14:23:16                       VISA INIT ERROR
+
+2024/1/25 14:23:13                       VISA INIT ERROR
+
+2024/1/25 14:23:13                       VISA INIT ERROR
+
+2024/1/25 14:23:11                       VISA INIT ERROR
+
+2024/1/25 14:23:10                       VISA INIT ERROR
+
+2024/1/25 14:23:09                       VISA INIT ERROR
+
+2024/1/25 14:23:00                       VISA INIT ERROR
+
+2024/1/25 14:22:58                       VISA INIT ERROR
+
+2024/1/25 14:22:47                       VISA INIT ERROR
+
+2024/1/25 14:22:46                       VISA INIT ERROR
+
+2024/1/25 14:22:15                       VISA INIT ERROR
+
+2024/1/25 14:20:04                       VISA INIT ERROR
+
+2024/1/25 14:20:04                       VISA INIT ERROR
+
+2024/1/25 14:20:03                       VISA INIT ERROR
+
+2024/1/25 14:20:03                       VISA INIT ERROR
+
+2024/1/25 14:20:03                       VISA INIT ERROR
+
+2024/1/25 14:20:03                       VISA INIT ERROR
+
+2024/1/25 14:20:03                       VISA INIT ERROR
+
+2024/1/25 14:20:02                       VISA INIT ERROR
+
+2024/1/25 14:20:02                       VISA INIT ERROR
+
+2024/1/25 14:19:57                       VISA INIT ERROR
+
+2024/1/25 14:19:57                       VISA INIT ERROR
+
+2024/1/25 14:19:57                       VISA INIT ERROR
+
+2024/1/25 14:19:57                       VISA INIT ERROR
+
+2024/1/25 14:19:57                       VISA INIT ERROR
+
+2024/1/25 14:19:57                       VISA INIT ERROR
+
+2024/1/25 14:19:53                       VISA INIT ERROR
+
+2024/1/25 14:19:48                       VISA INIT ERROR
+
+2024/1/25 14:19:47                       VISA INIT ERROR
+
+2024/1/25 14:19:47                       VISA INIT ERROR
+
+2024/1/25 14:19:47                       VISA INIT ERROR
+
+2024/1/25 14:19:47                       VISA INIT ERROR
+
+2024/1/25 14:19:47                       VISA INIT ERROR
+
+2024/1/25 14:19:46                       VISA INIT ERROR
+
+2024/1/25 14:19:46                       VISA INIT ERROR
+
+2024/1/25 14:19:46                       VISA INIT ERROR
+
+2024/1/25 14:19:46                       VISA INIT ERROR
+
+2024/1/25 14:19:46                       VISA INIT ERROR
+
+2024/1/25 14:19:46                       VISA INIT ERROR
+
+2024/1/25 14:19:35                       VISA INIT ERROR
+
+2024/1/25 14:19:35                       VISA INIT ERROR
+
+2024/1/25 14:19:34                       VISA INIT ERROR
+
+2024/1/25 14:19:34                       VISA INIT ERROR
+
+2024/1/25 14:19:34                       VISA INIT ERROR
+
+2024/1/25 14:19:34                       VISA INIT ERROR
+
+2024/1/25 14:19:33                       VISA INIT ERROR
+
+2024/1/25 14:19:33                       VISA INIT ERROR
+
+2024/1/25 14:19:33                       VISA INIT ERROR
+
+2024/1/25 14:19:33                       VISA INIT ERROR
+
+2024/1/25 14:19:33                       VISA INIT ERROR
+
+2024/1/25 14:19:26                       VISA INIT ERROR
+
+2024/1/25 14:19:25                       VISA INIT ERROR
+
+2024/1/25 14:19:15                       VISA INIT ERROR
+
+2024/1/25 14:19:12                       VISA INIT ERROR
+
+2024/1/25 14:18:59                       VISA INIT ERROR
+
+                       VISA INIT ERROR
+
