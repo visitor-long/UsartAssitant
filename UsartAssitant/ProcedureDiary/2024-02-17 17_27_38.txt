@@ -1,0 +1,24 @@
+2024/2/17 17:27:49                       VISA Dropped 
+
+2024/2/17 17:27:49                       VISA INIT ERROR
+
+2024/2/17 17:27:49                       VISA INIT ERROR
+
+2024/2/17 17:27:49                       VISA INIT ERROR
+
+2024/2/17 17:27:48                       VISA INIT ERROR
+
+2024/2/17 17:27:48                       VISA INIT ERROR
+
+2024/2/17 17:27:48                       VISA INIT ERROR
+
+2024/2/17 17:27:47                       VISA INIT ERROR
+
+2024/2/17 17:27:42                       VISA INIT ERROR
+
+2024/2/17 17:27:41                       VISA INIT ERROR
+
+2024/2/17 17:27:40                       VISA INIT ERROR
+
+2024/2/17 17:12:08                       VISA INIT ERROR
+
