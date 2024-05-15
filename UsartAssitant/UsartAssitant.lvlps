@@ -1,4 +1,5 @@
 [ProjectWindow_Data]
+<<<<<<< Updated upstream
 ProjectExplorer.ClassicPosition[String] = "41,289,336,833"
 
 [AB_Cache_{A03008FC-166B-477C-89CE-4F70C1A21277}]
@@ -8,3 +9,6 @@ Cache_Path[Path] Line0002 = "3008FC-166B-477C-89CE-4F70C1A21277}.txt"
 [AB_Cache_{CC5427F2-5433-4918-9CA4-579EBE763AAB}]
 Cache_Path[Path] Line0001 = "/C/Users/wolf.long/AppData/Local/Temp/AB_Cache_{CC"
 Cache_Path[Path] Line0002 = "5427F2-5433-4918-9CA4-579EBE763AAB}.txt"
+=======
+ProjectExplorer.ClassicPosition[String] = "251,1223,808,1767"
+>>>>>>> Stashed changes
